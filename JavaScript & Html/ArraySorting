@@ -1,0 +1,14 @@
+<html>
+<head>
+
+
+</head>
+<body>
+<script>
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.sort();
+fruits.reverse();
+</script>
+</body>
+
+</html>
